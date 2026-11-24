@@ -376,7 +376,7 @@ footer a { color: #fff; text-decoration: underline; }
     <a class="brand" href="./"><b>SGV</b><span>Starter Game Value</span></a>
     <nav class="modes" aria-label="League"><a id="mode-mlb">MLB</a><a id="mode-milb">MiLB</a></nav>
     <div class="topbar-meta"><span id="through"></span>
-      <a class="gh" href="https://github.com/Luca-Pfi/Advanced-Sabermetrics-Development-SGV">GitHub</a></div>
+      <a class="gh" href="https://github.com/Luca-Pfi/MLB-STARTER-GAME-VALUE">GitHub</a></div>
   </div>
 </header>
 <nav class="subnav" aria-label="Season and sections">
@@ -444,7 +444,7 @@ footer a { color: #fff; text-decoration: underline; }
       Percentiles rank qualified starters of the season, 1 to 100; for Avg SGV, ERA, SGV Loss % and Short Start %, lower is better.</p></div>
     <div><h5>Data</h5><p>Box scores: MLB Stats API. Park factors: FanGraphs.</p>
       <p id="mode-note"></p>
-      <p><a id="xlsx" href="sgv_records.xlsx">Download every start (.xlsx)</a> · <a href="https://github.com/Luca-Pfi/Advanced-Sabermetrics-Development-SGV">Code on GitHub</a></p>
+      <p><a id="xlsx" href="sgv_records.xlsx">Download every start (.xlsx)</a> · <a href="https://github.com/Luca-Pfi/MLB-STARTER-GAME-VALUE">Code on GitHub</a></p>
       <p>Independent project. Not affiliated with or endorsed by Major League Baseball.</p></div>
   </div>
 </footer>

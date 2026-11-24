@@ -46,7 +46,7 @@ WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 OPENVERSE_API = "https://api.openverse.org/v1/images/"
 HEADERS = {"User-Agent": "SGV-leaderboards/1.0 "
-                         "(https://github.com/Luca-Pfi/Advanced-Sabermetrics-Development-SGV)"}
+                         "(https://github.com/Luca-Pfi/MLB-STARTER-GAME-VALUE)"}
 THUMB_WIDTH = 500         # px; enough for a sharp face crop in a 92 px (184 px on retina) circle
 RETRY_DAYS = 30           # pitchers without a photo are searched again after this many days
 CANDIDATES_PER_PLAYER = 3
