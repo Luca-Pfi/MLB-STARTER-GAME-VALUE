@@ -94,8 +94,6 @@ To check everything works without downloading anything: `python test_sgv.py`.
 
 A GitHub workflow (`.github/workflows/sgv-daily.yml`) updates the data and the website **every morning from March to October**. Each season:
 
-- **In March,** check `park_factors.csv`: new-season values are copied from the year before. Update them from the [FanGraphs Guts page](https://www.fangraphs.com/guts.aspx?type=pf) when published.
-
 ---
 
 ## Data sources
