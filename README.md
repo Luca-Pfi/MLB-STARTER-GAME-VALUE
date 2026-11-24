@@ -95,7 +95,7 @@ To check everything works without downloading anything: `python test_sgv.py`.
 A GitHub workflow (`.github/workflows/sgv-daily.yml`) updates the data and the website **every morning from March to October**. Each season:
 
 - **In March,** check `park_factors.csv`: new-season values are copied from the year before. Update them from the [FanGraphs Guts page](https://www.fangraphs.com/guts.aspx?type=pf) when published.
-- **If the update has stopped,** GitHub pauses scheduled workflows after 60 days without activity. Open the **Actions** tab and click **Enable workflow**.
+- **Over the off-season,** GitHub pauses scheduled workflows after 60 days without activity, so the workflow re-enables itself on 15 November and 10 January. If the update has stopped anyway, open the **Actions** tab and click **Enable workflow**.
 
 ---
 
